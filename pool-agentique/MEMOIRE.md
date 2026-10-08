@@ -28,19 +28,19 @@ Statut : mémoire partagée, lue intégralement par chaque agent avant toute ré
 | Champ | Valeur |
 |---|---|
 | Nom du jeu | |
-| Genre / sous-genre | (ex : puzzle, idle, RPG gacha, 4X, roguelite, battle royale, hypercasual, hybridcasual) |
+| Genre / sous-genre | Puzzle (piste étudiée, sous-genre à choisir) |
 | Plateformes | (iOS, Android, PC Steam, Epic, autres) |
 | Modèle économique | (F2P IAP, F2P pub, hybride, premium, premium + DLC, abonnement / battle pass) |
-| Stade actuel | (concept, prototype, vertical slice, alpha, beta, soft launch, global, live ops) |
-| Taille de l'équipe | 1 (développeur solo, 2026-10-08) |
-| Budget total / runway | |
-| Budget UA prévu | |
+| Stade actuel | Concept (aucun jeu en cours) |
+| Taille de l'équipe | 1 (fondateur solo). Compétences : marketing digital, développement assisté par Claude (2026-10-08) |
+| Budget total / runway | Aucune trésorerie disponible (2026-10-08) |
+| Budget UA prévu | 0 € |
 | Marchés cibles prioritaires | |
 | Date cible de lancement | |
 | Jeux concurrents de référence | |
 | Proposition de valeur unique (USP) | |
 | Public cible (âge, profil joueur) | |
-| Contraintes connues | |
+| Contraintes connues | Objectif : lancer plusieurs petits jeux et tenter de les monétiser. Pas de trésorerie, travail solo |
 
 ---
 
