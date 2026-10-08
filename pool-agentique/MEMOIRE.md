@@ -32,7 +32,7 @@ Statut : mémoire partagée, lue intégralement par chaque agent avant toute ré
 | Plateformes | (iOS, Android, PC Steam, Epic, autres) |
 | Modèle économique | (F2P IAP, F2P pub, hybride, premium, premium + DLC, abonnement / battle pass) |
 | Stade actuel | (concept, prototype, vertical slice, alpha, beta, soft launch, global, live ops) |
-| Taille de l'équipe | |
+| Taille de l'équipe | 1 (développeur solo, 2026-10-08) |
 | Budget total / runway | |
 | Budget UA prévu | |
 | Marchés cibles prioritaires | |
