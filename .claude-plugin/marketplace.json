@@ -145,6 +145,17 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+    },
+    {
+      "name": "termux",
+      "description": "Connect Claude Code to Termux on an Android device: run commands and read or write files over ssh, or locally when Claude Code runs inside Termux",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/termux",
+      "category": "productivity"
     }
   ]
 }

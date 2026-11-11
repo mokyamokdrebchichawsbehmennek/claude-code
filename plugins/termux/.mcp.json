@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "termux": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server/termux-mcp.js"]
+    }
+  }
+}
