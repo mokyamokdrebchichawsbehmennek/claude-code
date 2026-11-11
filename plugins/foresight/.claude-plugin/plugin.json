@@ -1,0 +1,9 @@
+{
+  "name": "foresight",
+  "version": "0.1.0",
+  "description": "Research prototype: a software world model (the agent predicts command outcomes and learns from its surprises) and a verified, composable tool library that grows across sessions.",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}
